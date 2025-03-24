@@ -1,65 +1,24 @@
+BSD 2-Clause License
 
-### **Proprietary Software License Agreement**
+Copyright (c) 2025, John Emil
 
-**Effective Date:** 24-March-2025 
-**Software Name:** Petite Elise Preschool App
-**Developer/Owner:** John Emil Modzala 
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-This Proprietary Software License Agreement ("Agreement") is a legal agreement between you ("User" or "You") and [Your Name or Company Name] ("Licensor," "We," or "Us") for the use of [Insert App Name] ("Software"). By downloading, installing, accessing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not use the Software.
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
 
----
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
 
-#### **1. License Grant**
-Subject to your compliance with this Agreement, Licensor grants you a limited, non-exclusive, non-transferable, revocable license to use the Software for personal or internal business purposes, solely in accordance with the terms of this Agreement.
-
----
-
-#### **2. Restrictions**
-You are NOT permitted to:
-- Copy, modify, or create derivative works of the Software.
-- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
-- Distribute, sublicense, lease, rent, or otherwise transfer the Software to any third party.
-- Use the Software for any unlawful purpose or in violation of any applicable laws or regulations.
-
----
-
-#### **3. Ownership**
-The Software is licensed, not sold. Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights. This Agreement does not grant you any rights to patents, copyrights, trade secrets, trademarks, or any other rights in respect to the Software.
-
----
-
-#### **4. Subscription Terms**
-Access to the Software is provided on a subscription basis. You agree to pay the applicable subscription fees as outlined in the app or on our website. Failure to pay may result in termination of your access to the Software.
-
----
-
-#### **5. Termination**
-This Agreement is effective until terminated. Licensor may terminate this Agreement at any time if you fail to comply with its terms. Upon termination, you must cease all use of the Software and destroy all copies of the Software in your possession.
-
----
-
-#### **6. Disclaimer of Warranty**
-The Software is provided "AS IS" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Licensor does not guarantee that the Software will be error-free or uninterrupted.
-
----
-
-#### **7. Limitation of Liability**
-In no event shall Licensor be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising out of or related to this Agreement or the use of the Software, even if Licensor has been advised of the possibility of such damages.
-
----
-
-#### **8. Governing Law**
-This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law principles.
-
----
-
-#### **9. Entire Agreement**
-This Agreement constitutes the entire agreement between you and Licensor regarding the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
-
----
-
-**By using the Software, you acknowledge that you have read, understood, and agree to be bound by this Agreement.**
-
----
-
-You can customize this template further to suit your specific needs. If you’re unsure about any terms, consult a legal professional to ensure compliance with local laws and regulations.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
